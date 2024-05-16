@@ -13,7 +13,7 @@ from textblob import TextBlob
 data = pd.read_csv("fb_sentiment.csv")  # Replace "facebook_data.xlsx" with your file path
 
 # Given name to count occurrences
-given_name = "Shobika"
+given_name = "Krishna"
 
 # Initialize counters for sentiment analysis and name occurrences
 sentiment_counts = {'positive': 0, 'negative': 0, 'neutral': 0}
@@ -40,10 +40,6 @@ print("Sentiment Analysis Results:")
 
 # Print occurrences of the given name
 print(f"Occurrences of '{given_name}': {name_occurrences}")
-
- 
-
-
 # Print occurrences of the given name
 print(f"Occurrences of '{given_name}': {name_occurrences}")
 <H3>Output:</H3>
