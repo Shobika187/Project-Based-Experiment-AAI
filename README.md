@@ -40,6 +40,12 @@ print("Sentiment Analysis Results:")
 
 # Print occurrences of the given name
 print(f"Occurrences of '{given_name}': {name_occurrences}")
+
+ 
+
+
+# Print occurrences of the given name
+print(f"Occurrences of '{given_name}': {name_occurrences}")
 <H3>Output:</H3>
 ![Screenshot (97)](https://github.com/Shobika187/Project-Based-Experiment-AAI/assets/94508142/a63c2898-f196-4271-9dac-d51a6e18431e)
 ![Screenshot (96)](https://github.com/Shobika187/Project-Based-Experiment-AAI/assets/94508142/481a9e13-2822-4bc4-a5a2-d25f07c8fafd)
