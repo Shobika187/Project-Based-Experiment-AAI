@@ -8,7 +8,7 @@ Perform sentiment analysis using your Facebook data and count the number of Occu
 import pandas as pd
 from textblob import TextBlob
 
-# Read data from Excel file
+
 data = pd.read_csv("fb_sentiment.csv")  # Replace "facebook_data.xlsx" with your file path
 
 # Given name to count occurrences
