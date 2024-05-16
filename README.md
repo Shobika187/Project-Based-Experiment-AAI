@@ -1,6 +1,5 @@
 <H3>ENTER YOUR NAME : SHOBIKA P</H3>
 <H3>ENTER YOUR REGISTER NO : 212221230096</H3>
-<H3>DATE: 14/05/2024</H3>
 <H1 Align="center">Project Based Experiment<H1>
 <H3>Objective:<H3>
 Perform sentiment analysis using your Facebook data and filter the data that has only neutral feedback for the code given in the following link.
