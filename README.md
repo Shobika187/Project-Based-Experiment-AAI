@@ -6,7 +6,6 @@
 Perform sentiment analysis using your Facebook data and count the number of Occurrences of Krishna in the extracted text for the code given in the following link
 <H3>Program:</H3>
 Insert your code here
-~~~  
 import pandas as pd
 from textblob import TextBlob
 
@@ -37,7 +36,6 @@ for index, row in data.iterrows():
 
 # Print sentiment analysis results
 print("Sentiment Analysis Results:")
-~~~
 
 
 # Print occurrences of the given name
